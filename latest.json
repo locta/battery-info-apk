@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "appName": "电池信息",
+  "applicationId": "com.batteryinfo.app",
+  "versionName": "1.0.0",
+  "versionCode": 1000001,
+  "tag": "v1.0.0",
+  "fileName": "BatteryInfo-v1.0.0.apk",
+  "publishedAt": "2026-10-04T17:40:33+00:00",
+  "sha256": "384453d114588ccce39481961f12fb5430b92a0bc9d3c9e8883b140de847196a",
+  "sizeBytes": 1295071,
+  "signingCertificateSha256": "80db0887f09dc004ac62161631664fde73d040ec2ccd0db44ea828946895c6a2",
+  "downloadUrl": "https://github.com/locta/battery-info-apk/releases/download/v1.0.0/BatteryInfo-v1.0.0.apk",
+  "releaseUrl": "https://github.com/locta/battery-info-apk/releases/tag/v1.0.0"
+}
